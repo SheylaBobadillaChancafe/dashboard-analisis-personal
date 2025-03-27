@@ -10,3 +10,5 @@ Este proyecto es un **Dashboard de Análisis de Personal** diseñado para visual
 - 📊 **Distribución por edad y desempeño laboral** en gráficos dinámicos.
 - 🏢 **Segmentación por departamentos**, mostrando salarios promedio y gerentes asignados.
 - 📈 **Tendencia de contratación** a lo largo de los años.
+## **Archivo Power BI**  
+El archivo de Power BI con el análisis se encuentra en la carpeta [powerbi](powerbi/).
